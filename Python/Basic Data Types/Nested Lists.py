@@ -1,4 +1,4 @@
-#Sample Input
+#Sample Input:
 '''
 5
 Harry
@@ -11,7 +11,7 @@ Akriti
 41
 Harsh
 39'''
-# Sample Output
+# Sample Output:
 '''
 Berry
 Harry'''
