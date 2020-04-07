@@ -1,0 +1,5 @@
+n = int( input() )
+height = list ( map( int , input().split() ) )
+tallestCandle = max(height)
+#print(tallestCandle)
+print ( height.count( tallestCandle ) )
