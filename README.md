@@ -1,2 +1,2 @@
-# hackerrank_solutions
+# Hackerrank Solutions
 #### Hackerrank ID : @Nparte777
